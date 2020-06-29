@@ -2,7 +2,9 @@
 ## Setup
 
 - Initialize a virtual environment or use global python
-- Install 'phlanders':
+- Install `phlanders`:
+
+
     cd phlanders
     pip install -e .
     
